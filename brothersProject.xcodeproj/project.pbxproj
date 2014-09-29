@@ -22,6 +22,7 @@
 		8FD8AFA719D9588B00A00B9B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FD8AF8619D9588B00A00B9B /* UIKit.framework */; };
 		8FD8AFAF19D9588B00A00B9B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8FD8AFAD19D9588B00A00B9B /* InfoPlist.strings */; };
 		8FD8AFB119D9588B00A00B9B /* brothersProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD8AFB019D9588B00A00B9B /* brothersProjectTests.m */; };
+		8FD8AFBC19D95B8F00A00B9B /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD8AFBB19D95B8F00A00B9B /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		8FD8AFAC19D9588B00A00B9B /* brothersProjectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "brothersProjectTests-Info.plist"; sourceTree = "<group>"; };
 		8FD8AFAE19D9588B00A00B9B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8FD8AFB019D9588B00A00B9B /* brothersProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = brothersProjectTests.m; sourceTree = "<group>"; };
+		8FD8AFBA19D95B8F00A00B9B /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		8FD8AFBB19D95B8F00A00B9B /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				8FD8AF9219D9588B00A00B9B /* AppDelegate.m */,
 				8FD8AF9419D9588B00A00B9B /* Main.storyboard */,
 				8FD8AF9719D9588B00A00B9B /* FirstViewController.h */,
+				8FD8AFBA19D95B8F00A00B9B /* ThirdViewController.h */,
+				8FD8AFBB19D95B8F00A00B9B /* ThirdViewController.m */,
 				8FD8AF9819D9588B00A00B9B /* FirstViewController.m */,
 				8FD8AF9A19D9588B00A00B9B /* SecondViewController.h */,
 				8FD8AF9B19D9588B00A00B9B /* SecondViewController.m */,
@@ -255,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FD8AF9C19D9588B00A00B9B /* SecondViewController.m in Sources */,
+				8FD8AFBC19D95B8F00A00B9B /* ThirdViewController.m in Sources */,
 				8FD8AF9319D9588B00A00B9B /* AppDelegate.m in Sources */,
 				8FD8AF9919D9588B00A00B9B /* FirstViewController.m in Sources */,
 				8FD8AF8F19D9588B00A00B9B /* main.m in Sources */,
